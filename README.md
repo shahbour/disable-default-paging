@@ -1,6 +1,6 @@
 # disable-default-paging
 
-The idea of this project is to show how to disable default paging by not sending page parameter .
+The idea of this project is to show how to control the paging by using the parameter page.
 
 If we don't send page parameter we will receive a List and all projection do work to customize the result
 
